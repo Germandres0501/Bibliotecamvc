@@ -11,7 +11,7 @@ public class ConexionBD {
     // Valores por defecto que serán sobrescritos si se encuentra el archivo de propiedades
     private static String URL = "jdbc:mysql://localhost:3306/biblioteca";
     private static String USER = "root";
-    private static String PASSWORD = "password";
+    private static String PASSWORD = "880501";
 
     private static Connection instance;
 
